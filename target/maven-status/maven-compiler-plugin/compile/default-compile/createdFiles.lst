@@ -1,0 +1,10 @@
+workflow\AbstractEvent.class
+workflow\external\ProcessedData.class
+workflow\config\kafka\KafkaProcessor.class
+workflow\WorkflowStarted.class
+workflow\PolicyHandler.class
+workflow\WorkflowHist.class
+workflow\Application.class
+workflow\WorkflowHistController.class
+workflow\WorkflowHistRepository.class
+workflow\external\ProcessedDataService.class
