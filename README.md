@@ -40,3 +40,9 @@ workflow application.yml 에 hystrix, processeddata.java 에 임의 부하를 �
 - Autoscale 적용
 
 ![autoscale](https://user-images.githubusercontent.com/5702054/80049853-002bc300-854f-11ea-9f22-d63b203667be.PNG)
+
+- pipeline
+
+https://dev.azure.com/admin19/msa_workflow/_build
+
+![pipeline](https://user-images.githubusercontent.com/5702054/80051151-767df480-8552-11ea-9b42-b0924ebb11b0.png)
