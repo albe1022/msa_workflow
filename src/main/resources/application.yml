@@ -41,6 +41,12 @@ server:
 api:
   url:
     preprocess: http://localhost:8082
+
+hystrix:
+  command:
+    # 전역설정
+    default:
+      execution.isolation.thread.timeoutInMilliseconds: 610
 ---
 
 spring:
