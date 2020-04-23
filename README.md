@@ -12,6 +12,7 @@ https://github.com/albe1022/msa_preprocess
 https://github.com/albe1022/msa_inference
 
 MQ 기반 ML inference Workflow
+
 데이터 저장, workflow 시작, 데이터 전처리, 데이터 inference 시나리오
 
 1. inference 할 rawdata 저장
